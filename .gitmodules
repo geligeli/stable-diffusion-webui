@@ -1,0 +1,6 @@
+[submodule "extensions/sd-webui-controlnet"]
+	path = extensions/sd-webui-controlnet
+	url = git@github.com:geligeli/sd-webui-controlnet.git
+[submodule "extensions/clip-interrogator-ext"]
+	path = extensions/clip-interrogator-ext
+	url = git@github.com:geligeli/clip-interrogator-ext.git
