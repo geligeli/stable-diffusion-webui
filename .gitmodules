@@ -1,3 +1,0 @@
-[submodule "extensions/ControlNet"]
-	path = extensions/ControlNet
-	url = git@github.com:geligeli/ControlNet.git
